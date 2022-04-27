@@ -1,2 +1,3 @@
 # Agenda_futvolei
-Criando uma agenda para uma Arena que da aulas de Futvolei 
+Projeto autonomo
+Criando back-end para agenda de uma Arena que leciona aulas de Futvolei 
